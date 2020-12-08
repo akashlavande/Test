@@ -27,4 +27,9 @@ Seventh commit by Akash
 >>>>>>> parent of 2a66859 (Eighth commit by Akash)
 =======
 Seventh commit by Akash
+<<<<<<< HEAD
 >>>>>>> parent of 2a66859 (Eighth commit by Akash)
+=======
+Eight commit by Akash
+Hello world! By Akash
+>>>>>>> development

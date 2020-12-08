@@ -12,12 +12,16 @@ Sixth commit from Akash
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Seventh commit by Akash
 Eight commit by Akash
 >>>>>>> 2a668590e83e6597738201117d4af96c96fb0014
 =======
 Seventh commit by Akash
 
+=======
+Seventh commit by Akash
+>>>>>>> parent of 2a66859 (Eighth commit by Akash)
 =======
 Seventh commit by Akash
 >>>>>>> parent of 2a66859 (Eighth commit by Akash)

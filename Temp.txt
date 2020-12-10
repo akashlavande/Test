@@ -1,7 +1,5 @@
-<<<<<<< Updated upstream
 Hello world
-=======
 Hello world by Akash
->>>>>>> Stashed changes
-
-Hello
+Hi
+Good Day!
+This line is not required so removed
